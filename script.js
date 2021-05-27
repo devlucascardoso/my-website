@@ -22,6 +22,7 @@
 }());
 
 // Place any jQuery/helper plugins in here.
+// LC
 
 $(document).ready(function(){
 	$(".contentsPanel").each(function() {                
